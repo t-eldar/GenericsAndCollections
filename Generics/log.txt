@@ -1,0 +1,18 @@
+[Info]: [Int32] : First int log
+[Warning] : [Int32] : Int warning
+[Error] : [Int32] : Int error. Int logging exception
+[Info]: [String] : First string log
+[Warning] : [String] : String warning
+[Error] : [String] : String error. String logging exception
+[Info]: [Int32] : First int log
+[Warning] : [Int32] : Int warning
+[Error] : [Int32] : Int error. Int logging exception
+[Info]: [String] : First string log
+[Warning] : [String] : String warning
+[Error] : [String] : String error. String logging exception
+[Info]: [Int32] : First int log
+[Warning] : [Int32] : Int warning
+[Error] : [Int32] : Int error. Int logging exception
+[Info]: [String] : First string log
+[Warning] : [String] : String warning
+[Error] : [String] : String error. String logging exception
